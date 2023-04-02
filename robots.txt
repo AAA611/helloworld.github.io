@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: sitemap.xml
+Sitemap: https://aaa611.github.io/helloworld.github.io/sitemap.xml
